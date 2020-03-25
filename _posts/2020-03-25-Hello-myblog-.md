@@ -1,6 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello My blog!
+date: 2020-03-26 00:06:15 +0800
+autor: Michael Tseng
+comments: true
+categories: articles
+tags: [sample]
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
