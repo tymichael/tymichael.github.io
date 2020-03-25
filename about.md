@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+你好，我是Michael，透過寫文章與自我對話，內化自己所學知識，並分享。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lun0672@gmail.com](lun0672@gmail.com)
