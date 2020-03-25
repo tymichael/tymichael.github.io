@@ -8,4 +8,4 @@ categories: articles
 tags: [sample]
 ---
 
-以Jekyll Now為範本，建立自己的Blog，記錄自己學習過程與，內化自己所學知識。
+以Jekyll Now為範本，建立自己的Blog，記錄自己學習過程，內化自己所學知識。
