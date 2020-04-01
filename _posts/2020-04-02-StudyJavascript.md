@@ -26,18 +26,19 @@ User Story，定義需求規格，再來實作
 
 ### 實作
 ```javascript
-//todolist V1
-// User story 1: 變數儲存待辦事項
-var todos = ["todos1", "todos2"];
-// User story 2: 顯示待辦事項
-console.log(todos);
-// User story 3: 新增待辦事項
-todos.push("new todos");
-console.log(todos);
-// User story 4: 更新待辦事項
-todos[0] = "update todos";
-console.log(todos);
-// User story 5: 刪除待辦事項
-todos.splice(0, 1);
-console.log(todos);
+    // todolist V1
+    // User story 1: 變數儲存待辦事項
+    var todos = ["todos1", "todos2"];
+    // User story 2: 顯示待辦事項
+    console.log(todos);
+    // User story 3: 新增待辦事項
+    todos.push("new todos");
+    console.log(todos);
+    // User story 4: 更新待辦事項
+    todos[0] = "update todos";
+    console.log(todos);
+    // User story 5: 刪除待辦事項
+    todos.splice(0, 1);
+    console.log(todos);
 ```
+![執行結果](https://i.imgur.com/NRN1b9B.png)
