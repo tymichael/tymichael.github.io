@@ -12,4 +12,4 @@ Javascript是一種網頁設計的語言，用來呈現網頁動態效果，例�
 
 ## 開發工具
 * Google Chrome 開發者工具，開啟Google Chrome後，點"右鍵"選擇"檢查"，會跳出開發者視窗，在選擇"Console"，就可以在上面寫Javascript程式，實作如下圖
-![Console](https://imgur.com/a/ZY0aRYt) 
+![Console](https://imgur.com/LHARnDp) 
