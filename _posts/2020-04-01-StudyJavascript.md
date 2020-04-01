@@ -24,7 +24,7 @@ User Story，定義需求規格，再來實作
 * App 要有方法去更新待辦事項
 * App 要有方法去刪除待辦事項
 ### 實作
-```js
+```javascript
 //todolist V1
 // User story 1: 變數儲存待辦事項
 var todos = ["todos1", "todos2"];
