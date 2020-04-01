@@ -15,4 +15,12 @@ Javascript是一種網頁設計的語言，用來呈現網頁動態效果，例�
 * Google Chrome 開發者工具，開啟Google Chrome後，點"右鍵"選擇"檢查"，會跳出開發者視窗，在選擇"Console"，就可以在上面寫Javascript程式，實作如下圖
 ![Console](https://i.imgur.com/LHARnDp.png)
 
-## 
+## Todolist專案實作
+User Story，定義需求規格，再來實作
+### User Story
+* App 要有變數儲存待辦事項
+* App 要有方法去顯示待辦事項
+* App 要有方法去增加待辦事項
+* App 要有方法去更新待辦事項
+* App 要有方法去刪除待辦事項
+### 實作
