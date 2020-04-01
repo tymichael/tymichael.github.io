@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript學習記錄
-date: 2020-04-01 10:08:15 +0800
+date: 2020-04-02 00:22:15 +0800
 autor: Michael Tseng
 comments: true
 categories: articles
@@ -24,3 +24,19 @@ User Story，定義需求規格，再來實作
 * App 要有方法去更新待辦事項
 * App 要有方法去刪除待辦事項
 ### 實作
+```js
+//todolist V1
+// User story 1: 變數儲存待辦事項
+var todos = ["todos1", "todos2"];
+// User story 2: 顯示待辦事項
+console.log(todos);
+// User story 3: 新增待辦事項
+todos.push("new todos");
+console.log(todos);
+// User story 4: 更新待辦事項
+todos[0] = "update todos";
+console.log(todos);
+// User story 5: 刪除待辦事項
+todos.splice(0, 1);
+console.log(todos);
+```
