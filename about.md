@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-你好，我是Michael，透過寫文章與自我對話，內化自己所學知識，並分享。
+你好，我是Michael。
 
 ### Contact me
 
