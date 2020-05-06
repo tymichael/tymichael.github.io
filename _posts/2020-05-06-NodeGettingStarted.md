@@ -23,5 +23,9 @@ Node.js是Open Source跨平台的Runtime environment，使用Google V8引擎，�
 ![Node Work](https://i.imgur.com/Xfl8yXy.png)
 
 ## 安裝
-* Node.js: https://nodejs.org/en/
-* Visual Studio Code: https://code.visualstudio.com/
+* [Node.js](https://nodejs.org/en/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+## 參考
+* [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://youtu.be/TlB_eWDSMt4)
+* [Node.js 是什麼？跟 JavaScript 有什麼關係](https://tw.alphacamp.co/blog/node-js-and-javascript)
