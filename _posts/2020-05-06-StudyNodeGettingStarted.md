@@ -24,7 +24,9 @@ Node.js是Open Source跨平台的Runtime environment，使用Google V8引擎，�
 
 ### 實作
 * Blocking
+
 ```javascript
+
 // Blocking
 // 先等待三秒後執行console.log("BlockingTest Complete!");
 // 再執行console.log("Node.js");
@@ -40,8 +42,11 @@ console.log("Node.js");
 // BlockingTest Complete!
 // Node.js
 ```
+
 * Non-blocking
+
 ```javascript
+
 // Non-Blocking
 // done為Callback函數，done => function()
 // 會先執行console.log("Node.js");
@@ -61,6 +66,7 @@ console.log("Node.js");
 // 執行結果
 // Node.js
 // BlockingTest Complete!
+
 ```
 
 
