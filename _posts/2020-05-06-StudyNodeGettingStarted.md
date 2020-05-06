@@ -71,6 +71,7 @@ console.log("Node.js");
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 參考
-* [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4)
 * [Node.js入门](https://www.youtube.com/playlist?list=PLliocbKHJNwvbitOJ73M04PUoJae79kEg)
+* [[Note] 什麼是 NodeJS](https://pjchender.github.io/2018/12/07/node-%E4%BB%80%E9%BA%BC%E6%98%AF-nodejs/)
 * [Node.js 是什麼？跟 JavaScript 有什麼關係](https://tw.alphacamp.co/blog/node-js-and-javascript)
+* [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4)
