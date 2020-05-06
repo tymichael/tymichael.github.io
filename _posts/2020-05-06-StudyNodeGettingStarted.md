@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Node.js入門
+title: Node.js入門學習記錄(持續更新)
 date: 2020-05-05 21:30:15 +0800
 autor: Michael Tseng
 comments: true
@@ -27,5 +27,5 @@ Node.js是Open Source跨平台的Runtime environment，使用Google V8引擎，�
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 參考
-* [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://youtu.be/TlB_eWDSMt4)
+* [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://youtu.be/TlB_eWDSMt4)
 * [Node.js 是什麼？跟 JavaScript 有什麼關係](https://tw.alphacamp.co/blog/node-js-and-javascript)
