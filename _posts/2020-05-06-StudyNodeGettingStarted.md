@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Node.js入門學習記錄(持續更新)
+title: Node.js入門學習記錄
 date: 2020-05-05 21:30:15 +0800
 autor: Michael Tseng
 comments: true
@@ -65,7 +65,6 @@ console.log("Node.js");
 // Node.js
 // BlockingTest Complete!
 ```
-
 
 ## 安裝
 * [Node.js](https://nodejs.org/en/)
