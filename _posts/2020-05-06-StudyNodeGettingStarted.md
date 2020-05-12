@@ -84,13 +84,10 @@ console.log(global.message);
 ## Modules
 我們可以將重複的功能定義成一個模組裡面可以包含變數和方法，如果主程式需要就可以引入使用自定義模組，所以會介紹模組的輸入與輸出。
 
-`
 資料夾結構
-.
-+-- First-app
-    +-- app.js
-    +-- logger.js
-`
+* First-app
+    * app.js
+    * logger.js
 
 ```javascript
 // logger.js
